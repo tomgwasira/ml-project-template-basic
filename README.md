@@ -1,6 +1,9 @@
 # Basic Machine Learning Project Template
 A template for a basic machine learning project.
 
+## Usage
+1. Download this project as a .zip file.
+
 ## Stack
 1. MLflow
 2. DVC
