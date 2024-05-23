@@ -11,5 +11,6 @@ A template for a basic machine learning project.
 
 ## To-Do
 1. `models/models.py`, `train.py`
-2. `inference.py`: Script accepting an input or set of inputs and runs inference
-3. Automate creation of headers in project?
+2. Add metadata logging files for preparation and preparation script to title couple metadata with the data
+3. `inference.py`: Script accepting an input or set of inputs and runs inference
+4. Automate creation of headers in project?
